@@ -6,6 +6,6 @@ blabla
 noch ein Test  
 weiter gehts  
 
-- Hallo Schorsch
+- Hallo Schorsch  
 [x] Checkbox
 
