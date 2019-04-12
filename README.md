@@ -5,9 +5,4 @@
 blabla
 noch ein Test  
 weiter gehts  
-
-- Hallo Schorsch  
-
-
-[x] Checkbox
-
+test123
